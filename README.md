@@ -4,7 +4,7 @@ Image Detection
 
 ## Basic Steps
 
-1. preprocessing: filtering, segmentation
-2. feature extraction 
-3. hypothesize object
-4. verify objects
+1. Preprocessing: Filtering, Segmentation (Preprocessing.md)
+2. Feature Extraction 
+3. Hypothesize Object
+4. Verify Objects
