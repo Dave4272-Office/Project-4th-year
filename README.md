@@ -2,7 +2,7 @@
 Image Detection
 
 
-##Basic Steps
+## Basic Steps
 
 1. preprocessing: filtering, segmentation
 2. feature extraction 
