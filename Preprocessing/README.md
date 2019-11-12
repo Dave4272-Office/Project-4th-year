@@ -1,7 +1,7 @@
 # Preprocessing
 
 1) Read Image
-   - Convert to Greyscale
+   - [Convert to Greyscale](Colour_Space/README.md)
 2) Resize Image
 3) [Remove Noise](Remove_Noise/README.md)
 4) [Segmentation](Segmentation/README.md)
